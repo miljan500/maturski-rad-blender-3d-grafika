@@ -2,7 +2,7 @@
 
 ## Autor
 
-- **Autor:** \[Miljan Milivojević\]
+- **Autor:** Miljan Milivojević
 - **Škola:** Negotinska gimnazija
 - **Godina:** 2023.
 
